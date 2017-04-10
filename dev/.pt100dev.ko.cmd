@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/E/linux_share/max31685/dev/pt100dev.ko := arm-linux-ld -EL -r  -T /linux-3.6/scripts/module-common.lds --build-id  -o /mnt/hgfs/E/linux_share/max31685/dev/pt100dev.ko /mnt/hgfs/E/linux_share/max31685/dev/pt100dev.o /mnt/hgfs/E/linux_share/max31685/dev/pt100dev.mod.o

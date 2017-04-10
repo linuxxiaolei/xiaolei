@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/E/linux_share/max31685/pt1002.ko := arm-linux-ld -EL -r  -T /linux-3.6/scripts/module-common.lds --build-id  -o /mnt/hgfs/E/linux_share/max31685/pt1002.ko /mnt/hgfs/E/linux_share/max31685/pt1002.o /mnt/hgfs/E/linux_share/max31685/pt1002.mod.o
